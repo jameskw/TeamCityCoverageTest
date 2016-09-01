@@ -1,1 +1,4 @@
-﻿  TeamCityCoverageTest.vcxproj -> D:\TeamCityTestCoverage\TeamCityCoverageTest\TeamCityCoverageTest\Debug\TeamCityCoverageTest.lib
+﻿  TeamCityCoverageTest2.cpp
+  stdafx.cpp
+stdafx.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  TeamCityCoverageTest.vcxproj -> D:\TeamCityTestCoverage\TeamCityCoverageTest\TeamCityCoverageTest\Debug\TeamCityCoverageTest.lib
